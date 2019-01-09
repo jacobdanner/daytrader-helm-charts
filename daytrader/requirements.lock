@@ -13,6 +13,6 @@ dependencies:
   version: 1.0.17
 - name: daytrader-web
   repository: file://../daytrader-web/
-  version: 1.0.17
-digest: sha256:ce030517616165be0cdf5c06dc8f09cbe05a8faf443261576b6b5632a88d65c6
-generated: 2018-12-21T00:11:29.989375512Z
+  version: 1.0.18
+digest: sha256:a270d6e1d356258eebeba2efed127cee03a4dcca33eb701e16e35b0dfac286ca
+generated: 2019-01-09T15:39:40.129892Z

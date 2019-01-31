@@ -2,6 +2,11 @@
 
 This repository contains [Helm charts](https://github.com/helm/helm) for the [DayTrader](https://github.com/jpmorganchase/daytrader-example-webrepo) application. It contains a Helm chart for each of the individual services as well as a single Helm chart to deploy the entire application in one go.
 
+For a brief introduction to [Kubernetes](https://kubernetes.io/), [Helm](https://helm.sh/), and the lessons learned writing Helm Charts for DayTrader see the presentation below.
+<p align="center">
+  <a href="Helm.pdf"><img alt="Authoring Helm Charts for DayTrader - Lessons Learned Writing the Helm Charts for DayTrader" src="Helm.jpg"/></a>
+</p>
+
 
 # Packaging the Charts
 
